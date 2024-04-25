@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: profile.jpeg
 about:
   template: jolla
   links:
@@ -16,4 +16,8 @@ about:
 
 ---
 
-About this blog
+LeRock-Summits is a blog that we started to keep track of our ongoing high pointing adventures. The main members of this groups are Gary, Garrison, Victor LeRock and Adam Dunn. 
+
+There are many other that have joined us on various trips, and their stories can be found in here as well. 
+
+Enjoy learning about our journey as we describe our stuggles, lessons learned, and memories made. 

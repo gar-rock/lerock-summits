@@ -1,5 +1,5 @@
 ---
-title: "."
+title: "LeRock-Summits"
 listing:
   contents: posts
   sort: "date desc"
