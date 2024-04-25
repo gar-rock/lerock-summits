@@ -160,6 +160,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The Arizona high point is situated just north of the beautiful town of Flagstaff. This makes for an excellent launching point, as the peak can be summitted within a 10 mile round trip hike, reaching an elevation of 12,633ft. The trailhead is about 20miles (35 minutes) from Pulliam airport.</p>
 <p>It is located in the Eastern part of the state within the Cheaha State Park. At the top of this hp is a stone lodge and lookout tower.</p>
 <p>This is a moderately strenuous hike that typically takes 4.5 hours. There are multiple false summits towards the top with large boulders and scramling required. Once you reach the summit you will be greeted with a magnificent view of the surrounding Arizona desert. My favorite aspect of this view was seeing the Grand Canyon way out on the Northern horizon.</p>
+<p>This is another comment</p>
 
 
 
@@ -245,7 +246,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/gar-rock\.github\.io\/lerock-summits\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
