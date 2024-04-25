@@ -1,5 +1,5 @@
 ---
-title: "LeRock-Summits"
+title: "Home"
 listing:
   contents: posts
   sort: "date desc"
