@@ -1,0 +1,9 @@
+---
+title: "California"
+author: "Gary LeRock"
+date: "2021-04-19"
+categories: [states, highpoint, gary, california]
+image: "image.jpg"
+---
+
+Needs Words
